@@ -38,7 +38,7 @@ To get started with **ChatMate AI (G)**, follow these steps:
 1. **Clone the Repository** 📂:
  ```bash
    git clone https://github.com/Naeem-360/project-G.git
-   cd main1.py
+   cd main1
  ```
 2. **Set Up a Virtual Environment(optional)** 🐍:
  ```bash
@@ -88,7 +88,7 @@ apps["firefox"] = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 To **contribute** or **experiment** with **ChatMate AI(G)**, clone the repo:
  ```bash
 git clone https://github.com/Naeem-360/project-G.git
-cd chatmate-ai
+cd main1
  ```
 - **Replace your-username with the actual GitHub username hosting the project. Don’t have it yet? Fork it and make it your own**! 🍴
 
