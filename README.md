@@ -37,8 +37,8 @@ To get started with **ChatMate AI (G)**, follow these steps:
 
 1. **Clone the Repository** 📂:
  ```bash
-   git clone https://github.com/your-username/chatmate-ai.git
-   cd chatmate-ai
+   git clone https://github.com/Naeem-360/project-G.git
+   cd main1.py
  ```
 2. **Set Up a Virtual Environment(optional)** 🐍:
  ```bash
@@ -61,7 +61,7 @@ GITHUB_TOKEN=your_openai_api_key
  ```
 5. **Run the Application** 🚀:
  ```bash
-python chatmate.py
+python main1.py
  ```
 
 
@@ -87,7 +87,7 @@ apps["firefox"] = r"C:\Program Files\Mozilla Firefox\firefox.exe"
 ## 📡 Cloning the Repository
 To **contribute** or **experiment** with **ChatMate AI(G)**, clone the repo:
  ```bash
-git clone https://github.com/your-username/chatmate-ai.git
+git clone https://github.com/Naeem-360/project-G.git
 cd chatmate-ai
  ```
 - **Replace your-username with the actual GitHub username hosting the project. Don’t have it yet? Fork it and make it your own**! 🍴
